@@ -19,7 +19,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Links
 
 - Solution URL: [https://github.com/Jioh19/3-column-preview-card-component-main]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://jioh19.github.io/3-column-preview-card-component-main/]
 
 ### Built with
 
