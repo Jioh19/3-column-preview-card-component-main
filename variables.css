@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+:root {
+    --sedan: 31, 77%, 52%;
+    --suv: 184, 100%, 22%;
+    --luxury: 179, 100%, 13%;
+    --paragraph: hsla(0, 0%, 100%, 0.75);
+    --heading: hsl(0, 0%, 95%);
+}
